@@ -7,5 +7,7 @@ Supports Circles, Rectangles and polygons.
 ### Classes
 #### Vector2
 System class for 2D point. Taken from Unity.
-#####
+```javascript
+class Vector2(x : number, y : number)
+```
 
