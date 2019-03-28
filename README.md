@@ -8,13 +8,13 @@ Supports Circles, Rectangles and polygons.
 #### Vector2
 System class for 2D point. Taken from Unity.
 
-##### Constructor
+##### Constructor()
 ```javascript
 constructor(x : float, y : float)
 ```
 Create vector with x: x and y: y
 
-##### toArray
+##### toArray()
 ```javascript
 Vector2.toArray(x : float, y : float)
 ```
@@ -31,3 +31,5 @@ X component of the vector
 Vector2.y
 ```
 Y component of the vector
+
+#### Vector2
